@@ -3,6 +3,10 @@
 ## How to use
 - You can consult the board of your choice to **find out the current features planned** in the backlog :
 [H.P.C. powered by VMware ](https://github.com/ovh/hosted-private-cloud-roadmap/projects/1 "H.P.C. powered by VMware"),[ H.P.C. powered by Anthos ](https://github.com/ovh/hosted-private-cloud-roadmap/projects/2 "H.P.C. powered by Anthos"), [H.P.C. powered by Nutanix](https://github.com/ovh/hosted-private-cloud-roadmap/projects/3 "H.P.C. powered by Nutanix") ,[Backup and DRP solutions](https://github.com/ovh/hosted-private-cloud-roadmap/projects/4 "Backup and DRP solutions")
+
+
+[Looking for our OpenStack, Kubernetes, S3, Database or AI/ML product roadmap ?](https://github.com/ovh/public-cloud-roadmap "OVHcloud Public Cloud roadmap")
+
 - You can **watch a given feature** to get email notifications when it is modified or moves forward
 - You can **comment or vote** for listed features to influence our specifications and prioritization
 - You can **suggest a new issue** to the backlog 
