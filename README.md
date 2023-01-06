@@ -1,8 +1,8 @@
-# OVHcloud Hosted Private Cloud Roadmap
+# OVHcloud Private Cloud Provider Roadmap
 
 ## How to use
 - You can consult the board of your choice to **find out the current features planned** in the backlog :
-[H.P.C. powered by VMware ](https://github.com/ovh/hosted-private-cloud-roadmap/projects/1 "H.P.C. powered by VMware"),[ H.P.C. powered by Anthos ](https://github.com/ovh/hosted-private-cloud-roadmap/projects/2 "H.P.C. powered by Anthos"), [H.P.C. powered by Nutanix](https://github.com/ovh/hosted-private-cloud-roadmap/projects/3 "H.P.C. powered by Nutanix") ,[Backup and DRP solutions](https://github.com/ovh/hosted-private-cloud-roadmap/projects/4 "Backup and DRP solutions")
+[VMware on OVHcloud ](https://github.com/ovh/hosted-private-cloud-roadmap/projects/1 "VMware on OVHcloud"),[ H.P.C. powered by Anthos ](https://github.com/ovh/hosted-private-cloud-roadmap/projects/2 "H.P.C. powered by Anthos"), [Nutanix on OVHcloud](https://github.com/ovh/hosted-private-cloud-roadmap/projects/3 "Nutanix on OVHcloud") ,[Backup and Resilience solutions](https://github.com/ovh/hosted-private-cloud-roadmap/projects/4 "Backup and Resilience solutions")
 
 
 [Looking for our OpenStack, Kubernetes, S3, Database or AI/ML product roadmap ?](https://github.com/ovh/public-cloud-roadmap "OVHcloud Public Cloud roadmap")
