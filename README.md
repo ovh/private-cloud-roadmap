@@ -7,7 +7,7 @@
 
 [Looking for our OpenStack, Kubernetes, S3, Database or AI/ML product roadmap ?](https://github.com/ovh/public-cloud-roadmap "OVHcloud Public Cloud roadmap")
 
-[Looking for our Baremetal Dedicated Servers, OS and distributions, Storage or Network and Security roadmaps ?](https://github.com/ovh/infrastructure-roadmap/projects "OVHcloud Infrastructure : Baremetal servers, OSes, Storage, Network and Security")
+[Looking for our Baremetal Dedicated Servers, OS and distributions, Storage or Network and Security roadmaps ?](https://github.com/ovh/infrastructure-roadmap "OVHcloud Infrastructure : Baremetal servers, OSes, Storage, Network and Security")
 
 - You can **watch a given feature** to get email notifications when it is modified or moves forward
 - You can **comment or vote** for listed features to influence our specifications and prioritization
