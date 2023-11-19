@@ -15,7 +15,7 @@ OVHcloud now exposes a [central public roadmap and changelog for all its Cloud s
 - Please describe the feature in the shortest possible way, ideally as an agile user story.
 - We are interested in your use case associated and the current workaround you have found if they exist. Please comment your own issue with those details if possible.
 
-[ 🆕 Propose a new feature request - aka issue for Public Cloud](https://github.com/ovh/public-cloud-roadmap/issues/new?assignees=&labels=&projects=&template=feature_request.md&title=)
+[ 🆕 Propose a new feature request - aka issue for Hosted Private Cloud](https://github.com/ovh/private-cloud-roadmap/issues/new)
 
 Note : you can also create issues [regarding Public Cloud ecosystem here](https://github.com/ovh/public-cloud-roadmap/issues/new)    [regarding infrastructure here ](https://github.com/ovh/infrastructure-roadmap/issues/new) or [regarding Security, Identity and Operations here ](https://github.com/ovh/management-security-operations-roadmap/issues/new)
 
